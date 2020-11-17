@@ -1,3 +1,2 @@
 # MSI_Z370-A-PRO_RX580_OC_0.6.3
 Z370-A Pro(MS-7B48)
-完美支持 Catalina 10.15.7
